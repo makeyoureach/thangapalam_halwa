@@ -1,0 +1,25 @@
+.footer_container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(16, 96, 91);
+    height: 250px;
+    color: bisque;
+    padding: 2%;
+
+}
+
+.footer_list{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-content: space-around;
+}
+
+.footer_list>button{
+    margin: 2px;
+    /* border: none; */
+    cursor: pointer;
+    background-color: rgb(209, 200, 187);
+    border-radius: 5px;
+}

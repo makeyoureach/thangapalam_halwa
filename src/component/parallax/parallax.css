@@ -1,0 +1,19 @@
+.parallax{
+   
+  /* Full height */
+  min-height: 300px; 
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+.parallax_container{
+  border: none;
+  margin: 2px;
+  background:
+  conic-gradient(from -45deg at top,#721d1d,rgb(16, 96, 91) 5deg 80deg,#ffffff00 90deg) 60%/20px 50%;
+
+}

@@ -1,0 +1,26 @@
+.procontainer{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 2%;
+}
+
+.pro_first{
+    display: flex;
+    justify-content:center;
+    flex-direction: column;
+    align-items: center;
+    margin: 2%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  
+}
+h5{
+    color:linear-gradient(45deg,red,blue);
+}
+
+.pro_wrapper{
+    padding: 2%;
+    border: none;
+   background:
+   conic-gradient(from -45deg at top,#fff,rgb(152, 175, 174) 5deg 80deg,#ffffff00 90deg) 20%/40px 100%;
+}
